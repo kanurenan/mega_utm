@@ -1,9 +1,8 @@
 name: utm
 description: This is a Lat Lon and UTM bidirectional converter. Translate from Python UTM library. Support 3 Geodetic System, WGS84, GRS80 and Bessel
 
-version: 0.1.3-nullsafety.1
+version: 0.0.1
 homepage: https://github.com/aknow2/utm
-author: tomoaki kanayama <tmknym@aknow2.com>
 
 environment:
   sdk: ">=2.12.0 <3.0.0"
